@@ -1,0 +1,17 @@
+/* Author: Samiul Kabir
+    Programming Hero Web Development Course
+    Assignment 3 - Honda CBR
+    Custom CSS style
+*/
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+}
+header{
+    background-color: #264653;
+}
+.red-bike{
+    height: 700px;
+}
+.red-bike button{
+    background-color: #E76F51;
+}
