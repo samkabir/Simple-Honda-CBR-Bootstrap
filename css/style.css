@@ -9,9 +9,57 @@ body{
 header{
     background-color: #264653;
 }
+
+/* Header Section */
+
 .red-bike{
     height: 700px;
 }
 .red-bike button{
     background-color: #E76F51;
+}
+
+/* Feature Section */
+
+.feature-bikes img{
+    width: 300px;
+    height: 250px;
+}
+#greybikes{
+    filter: grayscale(100%);
+}
+.orange-text{
+    color: #E76F51;
+}
+
+/* Happy Clients */
+
+.happy-clients img{
+    width: 150px;
+}
+#circled-pic{
+    border-radius: 50%;
+    height: 150px;
+}
+.happy-clients-img{
+    align-items: center;
+    width: 330px;
+}
+.card-para{
+    color: #6C6C6C;
+}
+.blue-text{
+    color: #23A6F0;
+}
+.deep-blue-text{
+    color: #252B42;
+}
+.rating-orange{
+    color: #E77C40;
+}
+
+/* FAQ */
+.faq img{
+    width: 435px;
+    height: 420px;
 }
