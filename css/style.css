@@ -40,6 +40,7 @@ header{
 #circled-pic{
     border-radius: 50%;
     height: 150px;
+    background-size: contain;
 }
 .happy-clients-img{
     align-items: center;
@@ -62,4 +63,19 @@ header{
 .faq img{
     width: 435px;
     height: 420px;
+}
+.grey-text{
+    color: #7E848C;
+}
+
+/* Bonus Section 1 */
+.bonus-part-2{
+    height: 350px;
+}
+/*
+ * Extra utilities
+ */
+  
+.flex-equal > * {
+    flex: 1;
 }
